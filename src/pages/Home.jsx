@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div className="App">
     <header className="App-header">
-          Home  🏠
+          Home  🏠 Winter is coming ❄️
     </header>
   </div>
   )
